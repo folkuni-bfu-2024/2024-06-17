@@ -15,8 +15,9 @@ Båda proven rättas automatiskt.
 
 
 ### Länkar
-+ Länk till förmiddagens inspelning (kommer)
-+ Länk till provet (kommer)
++ [Länk till förmiddagens inspelning](https://folkuniversitetet-se.zoom.us/rec/share/wRiT1a033sS4rL6mwLkhQLZFBMZ-BmAa7TFYpE9ZHi53Gt1D7aIfyTCieRulGx8.jHdBdfcWmWDl5Wab)
++ Lösenkod: `#AuAk3&E`
++ [Länk till provet](https://classroom.github.com/a/pEIDJzz_)
 + [Guide till inlämningen](guide.md)
 + [Använda AI](https://github.com/lejonmanen/git-instruktion/blob/main/md/ai.md#ai)
 
